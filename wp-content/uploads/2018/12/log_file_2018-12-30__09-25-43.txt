@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: Health coach were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wp_airi
+Data file = C:\xampp\htdocs\wp_airi/wp-content/uploads/2018/12/demo-content-import-file_2018-12-30__09-25-43.xml
+Widget file = C:\xampp\htdocs\wp_airi/wp-content/uploads/2018/12/demo-widgets-import-file_2018-12-30__09-25-43.json
+Customizer file = C:\xampp\htdocs\wp_airi/wp-content/uploads/2018/12/demo-customizer-import-file_2018-12-30__09-25-43.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Text - Contact us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Quick links - Imported
+
+Footer 4 : 
+
+Airi: Social Profile - Follow us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
